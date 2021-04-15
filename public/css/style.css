@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+#id {
+  display: none;
+}
+
+.goodDeal > span {
+  background-color: green;
+}
+
+.badDeal > span {
+  background-color: red;
+}
